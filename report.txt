@@ -1,0 +1,125 @@
+Info: Total warnings: 4, errors: 0.
+Info: Processing symbol 'D2:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_2.5mm_Pad'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_2.5mm_Pad'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_2.5mm_Pad'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_2.5mm_Pad'.
+Info: Processing symbol 'D3:LED_THT:LED_D3.0mm'.
+Updated H3 footprint filters to 'MountingHole*'.
+Connected R3 pin 2 to Net-(D3-A).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to Net-(D1-A).
+Added D2 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D3.0mm to LED.
+Updated D2 symbol association from  to /b1ffa121-1ed7-48fc-98a2-f15e726ba2d9.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D2 pin 1 to Net-(D1-K).
+Connected D2 pin 2 to Net-(D2-A).
+Added D3 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_D3.0mm to LED.
+Updated D3 symbol association from  to /85cedd1e-bca2-492a-b5a7-32424a97287c.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated D3 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D3 pin 2 to Net-(D3-A).
+Connected D3 pin 1 to Net-(D1-K).
+Added H1 (footprint 'MountingHole:MountingHole_2.5mm_Pad').
+Changed REF** reference designator to H1.
+Changed H1 value from MountingHole_2.5mm_Pad to MountingHole.
+Updated H1 symbol association from  to /361f1dc5-5dbc-417f-a33a-fd815fd1a467.
+Updated H1 fields.
+Updated H1 sheetname to '/'.
+Updated H1 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated H1 footprint filters to 'MountingHole*'.
+Added H2 (footprint 'MountingHole:MountingHole_2.5mm_Pad').
+Changed REF** reference designator to H2.
+Changed H2 value from MountingHole_2.5mm_Pad to MountingHole.
+Updated H2 symbol association from  to /18ebb859-a8a1-4d8a-a3e8-f24523a4a6e4.
+Updated H2 fields.
+Updated H2 sheetname to '/'.
+Updated H2 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated H2 footprint filters to 'MountingHole*'.
+Added H3 (footprint 'MountingHole:MountingHole_2.5mm_Pad').
+Changed REF** reference designator to H3.
+Changed H3 value from MountingHole_2.5mm_Pad to MountingHole.
+
+
+Updated H3 symbol association from  to /5db48f9f-c12c-49d2-b8df-4fa60620cc73.
+Updated H3 fields.
+Updated H3 sheetname to '/'.
+Updated H3 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated D1 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated D1 sheetname to '/'.
+Updated D1 fields.
+Added H4 (footprint 'MountingHole:MountingHole_2.5mm_Pad').
+Changed REF** reference designator to H4.
+Changed H4 value from MountingHole_2.5mm_Pad to MountingHole.
+Updated H4 symbol association from  to /2d48aac2-b057-47c6-b944-e767b5caa4b3.
+Updated H4 fields.
+Updated H4 sheetname to '/'.
+Updated H4 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated H4 footprint filters to 'MountingHole*'.
+Connected R3 pin 1 to Net-(J1-Pin_4).
+Updated D1 symbol association from  to /d9a73f24-7810-413d-a414-1090fc36c457.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x04_P2.54mm_Horizontal to Conn_01x04.
+Updated J1 symbol association from  to /6ac921de-ad54-4215-ad96-fef60e547c23.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 4 to Net-(J1-Pin_4).
+Connected J1 pin 2 to Net-(J1-Pin_2).
+Connected J1 pin 1 to Net-(D1-K).
+Connected J1 pin 3 to Net-(J1-Pin_3).
+Changed D1 value from LED_D3.0mm to LED.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal to R.
+Updated R1 symbol association from  to /23e8a9a9-3ce0-477f-97bd-270a27004eb5.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(J1-Pin_2).
+Connected R1 pin 2 to Net-(D1-A).
+Changed REF** reference designator to D1.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal to R.
+Updated R2 symbol association from  to /c917f337-87e4-4b14-be55-5d034037dbee.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to Net-(D2-A).
+Connected R2 pin 1 to Net-(J1-Pin_3).
+Added D1 (footprint 'LED_THT:LED_D3.0mm').
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal to R.
+Updated R3 symbol association from  to /f9376821-4ddc-49ee-8120-8eddb4e323f6.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'Traffic-Light.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Warning: No net found for component H4 pad 1 (no pin 1 in symbol).
+Warning: No net found for component H2 pad 1 (no pin 1 in symbol).
+Warning: No net found for component H1 pad 1 (no pin 1 in symbol).
+Warning: No net found for component H3 pad 1 (no pin 1 in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
